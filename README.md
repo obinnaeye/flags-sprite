@@ -1,2 +1,1 @@
-# Free-Code-Camp
-My Project and Resources
+# Country Flags in CSS sprite
